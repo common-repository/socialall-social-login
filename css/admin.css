@@ -1,0 +1,335 @@
+.clear {
+    clear: both;
+}
+
+body[class*="sk-soclall-login"] #wpwrap #wpcontent {
+    background-color: #f9f9f9;
+}
+
+.sk-soclall-login-wrap {
+    margin-top: 40px; 
+}
+
+.sk-soclall-login-header {
+    margin: 20px;
+}
+
+.sk-soclall-login-header-title {
+    float: left;
+    margin-left: 20px;
+    font-size: 30px;
+    height: 60px;
+    line-height: 60px;
+}
+
+.sk-soclall-login-header-title span {
+    font-size: 11px;
+    margin-left: 3px;
+}
+
+.sk-soclall-login-content {
+    margin-top: 30px;
+}
+
+.sk-soclall-login-tabs {
+    height: 40px;
+}
+
+.sk-soclall-login-tab {
+    float: left;
+    margin: 0 2px;
+    padding: 0 15px;
+    line-height: 40px;
+    border-bottom: none !important;
+    background-color: #dde3e9;
+}
+
+.sk-soclall-login-tab:hover,
+.sk-soclall-login-active-tab,
+.sk-soclall-login-container
+{
+    background-color: #fff;
+}
+
+.sk-soclall-login-active-tab {
+    cursor: default;
+}
+
+.sk-soclall-login-tabs-content {
+    margin: -17px 0 0 2px;
+}
+
+.sk-soclall-login-container {
+    margin-bottom: 20px;
+    padding: 25px 40px;
+    -webkit-box-shadow: 2px 3px 4px 0px rgba(50, 50, 50, 0.10);
+    -moz-box-shadow: 2px 3px 4px 0px rgba(50, 50, 50, 0.10);
+    box-shadow: 2px 3px 4px 0px rgba(50, 50, 50, 0.10);
+}
+
+.sk-soclall-login-tab,
+.sk-soclall-login-container
+{
+    border: 1px solid #f2f2f2;
+}
+
+.sk-soclall-login-container h3 {
+    font-size: 25px;
+}
+
+.sk-soclall-login-container h4 {
+    font-size: 20px;
+}
+
+.sk-soclall-login-header-title,
+.sk-soclall-login-active-tab,
+.sk-soclall-login-container h3, 
+.sk-soclall-login-container h4
+{
+    color: #2292fa;
+}
+
+.sk-soclall-login-container-content {
+    margin-left: 20px;
+}
+
+.sk-soclall-login-container-content table {
+    width: 100%;
+}
+
+.sk-soclall-login-container-content table tr td {
+    padding: 5px;
+    vertical-align: bottom;
+}
+
+.sk-soclall-login-container-content table tr td:first-child {
+    width: 20%;
+}
+
+.sk-soclall-login-table-networks tr td:first-child {
+    width: 35px !important;
+}
+
+.sk-soclall-login-table-networks tr td:nth-child(2n) {
+    max-width: 60px;
+}
+
+.sk-soclall-login-icon  {
+    margin-right: 10px !important;
+}
+
+.sk-soclall-login-container-content input[type="text"] {
+    width: 300px;
+}
+
+.sk-soclall-login-tab, 
+.sk-soclall-login-container-content input[type="text"], 
+.sk-soclall-login-container-content input[type="checkbox"],
+.sk-soclall-login-shortcode,
+.sk-soclall-login-btn,
+.sk-soclall-login-message,
+.sk-soclall-login-message-error
+{
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+}
+
+.sk-soclall-login-how-to {
+    margin-top: 20px;
+}
+
+.sk-soclall-login-how-to a {
+    margin-left: 5px;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.sk-soclall-login-how-to-info {
+    font-size: 13px;
+}
+
+.sk-soclall-login-how-to a,
+.sk-soclall-login-how-to-info
+{
+    font-weight: normal;
+}
+
+.sk-soclall-login-container-radio {
+    margin-bottom: 20px;
+}
+
+.sk-soclall-login-container-radio p {
+    margin-bottom: 10px;
+}
+
+.sk-soclall-login-container-radio label {
+    display: block;
+    margin: 0 0 15px 10px;
+}
+
+.sk-soclall-login-header-title,
+.sk-soclall-login-how-to,
+.sk-soclall-login-container-radio p,
+.sk-soclall-login-radio-active {
+    font-weight: bold;
+}
+
+.sk-soclall-login-container-radio span {
+    margin-left: 5px;
+}
+
+.sk-soclall-login-shortcode {
+    padding: 20px;
+}
+
+.sk-soclall-login-shortcode-how-to {
+    margin-top: 25px;
+}
+
+.sk-soclall-login-save-btn {
+    display: block;
+}
+
+.sk-soclall-login-save-btn input[type="submit"] {
+    float: right;
+}
+
+.sk-soclall-login-btn {
+    padding: 15px 25px;
+    border: #2292fa;
+}
+
+.sk-soclall-login-shortcode,
+.sk-soclall-login-btn,
+.sk-soclall-login-message,
+.sk-soclall-login-message-error
+{
+    color: #fff;
+}
+
+.sk-soclall-login-shortcode,
+.sk-soclall-login-btn 
+{
+    background-color: #2292fa;
+}
+
+.sk-soclall-login-tab,
+.sk-soclall-login-btn
+{
+    cursor: pointer;
+}
+
+.sk-soclall-login-reset {
+    background-color: #9eabb8 !important;
+}
+
+.sk-soclall-login-btn:hover {
+    background-color: #dde3e9 !important;
+}
+
+.sk-soclall-login-message,
+.sk-soclall-login-message-error 
+{
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.sk-soclall-login-message {
+    background-color: #32cd32;
+}
+
+.sk-soclall-login-message-error {
+    background-color: #ff0000;
+}
+
+.sk-soclall-login-container-radio p,
+.sk-soclall-login-shortcode
+{
+    font-size: 18px;
+}
+
+.sk-soclall-login-wrap,
+.sk-soclall-login-container-radio label,
+.sk-soclall-login-btn {
+    font-size: 16px;
+}
+
+.sk-soclall-login-how-to,
+.sk-soclall-login-shortcode-how-to ol li,
+.sk-soclall-login-message,
+.sk-soclall-login-message-error
+{
+    font-size: 14px;
+}
+
+.sk-soclall-login-shortcode-table {
+    width: 50% !important;    
+}
+
+.sk-soclall-login-shortcode-table tr:first-child td {
+    border: none !important;
+}
+
+.sk-soclall-login-shortcode-table tr td {
+    border: 1px solid #2292fa;
+}
+
+.sk-soclall-login-shortcode-table tr td:first-child {
+    width: 50% !important;
+}
+
+.sk-soclall-login-shortcode-table tr td:last-child {
+    text-align: center;
+}
+
+.sk-soclall-login-theme-block {
+    width: 45%;
+    height: 145px;
+    display: inline-block;
+    margin: 18px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    overflow: auto;
+}
+    
+.sk-soclall-login-theme-block .theme-title {
+    font-size: 20px;
+    float: left;
+    margin-top: 3px;
+}
+    
+.sk-soclall-login-btn.btn-apply {
+    float: right;
+    padding: 10px 20px;
+}
+
+.sk-soclall-login-btn.btn-customize {
+    background-color: #9EABB8;
+}
+    
+.sk-soclall-login-theme-block .sa-frame {
+    float: left;
+    width: 100%;
+    margin: 15px 0;
+    padding: 0 3px;
+}
+    
+.sk-soclall-login-theme-block.active {
+    border: 1px solid #1872a2;
+}
+
+.sk-soclall-login-theme-block .theme-size {
+    display: inline-block;
+    margin-left: 35px;
+    font-size: 14px;
+}
+
+.sk-soclall-login-theme-block .check-theme-applied {
+    float: right;
+    font-size: 46px;
+    margin-right: 35px;
+    color: #009900;
+    line-height: 25px;
+}

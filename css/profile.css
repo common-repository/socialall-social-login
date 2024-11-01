@@ -1,0 +1,16 @@
+.sk-soclall-login-connect-network {
+    display: inline-block;
+    width: 48%;
+    padding-bottom: 15px;
+    box-sizing: border-box;
+}
+
+.sk-soclall-login-connect-network p {
+    display: inline-block;
+    line-height: 32px !important;
+}
+
+.sk-soclall-login-icon {
+    margin-right: 10px !important;
+    vertical-align: bottom;
+}

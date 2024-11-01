@@ -1,0 +1,47 @@
+.sk-soclall-login-wrap {
+    margin: 10px 0;
+    font-size: 16px;
+}
+
+.sk-soclall-login-warning {
+    color: #ff0000;
+}
+
+.sk-soclall-login-title {
+    display: block;
+    margin-bottom: 15px;
+    font-weight: bold;
+    color: #2292fa;
+}
+
+.sk-soclall-login-wrap a {
+    display: inline-block;
+    text-decoration: none;
+    border: none !important;
+}
+
+.sk-soclall-login-user {
+    margin-top: 35px;
+    margin-bottom: 20px;
+    padding: 26px 24px;
+    overflow: hidden;
+    background-color: #fff;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.13);
+    -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.13);
+    -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.13);
+}
+
+.sk-soclall-login-user img {
+    width: 50px;
+    vertical-align: bottom;
+}
+
+.sk-soclall-login-user p {
+    display: inline-block;
+    max-width: 200px;
+    margin-left: 15px;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 50px;
+    overflow: hidden;
+}
